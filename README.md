@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jinyang Ding, studying for Master's Degree in Shanghai, China. I'm currently learning frontend development. 📫 Reach me: `iamjyding at gmail dot com`
+
 <br />
 
 <a href="https://github.com/iamjyding/">
@@ -10,6 +12,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamjyding.iamjyding)
+
 
 <img align="left" alt="img" width="500px" src="https://github-readme-stats.vercel.app/api?username=iamjyding&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0" />
 
