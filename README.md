@@ -13,7 +13,7 @@
   <img align="left" title="掘金" alt="chokcoco" width="22px" src="https://github.com/chokcoco/chokcoco/blob/main/juejin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=iamjyding.iamjyding)
 
 <br />
   <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
