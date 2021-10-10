@@ -2,10 +2,6 @@
 
 <br />
 
-![](https://github-readme-stats.vercel.app/api?username=iamjyding&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)
-
-<br />
-
 <a href="https://github.com/iamjyding/">
   <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
@@ -15,5 +11,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamjyding.iamjyding)
 
-<br />
-  <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+![](https://github-readme-stats.vercel.app/api?username=iamjyding&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)
+
+<img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
