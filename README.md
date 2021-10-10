@@ -17,5 +17,3 @@
 
 <br />
   <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
-
-Here are some ideas to get you started:
