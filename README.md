@@ -6,7 +6,7 @@ I'm amifed (am i frontend development), studying for Master's Degree in Shanghai
 
 <br />
 
-<a href="https://github.com/iamjyding/">
+<a href="https://github.com/amifed/">
   <img align="left" alt="yisar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 <a target="_blank" href="https://juejin.cn/user/817692381817880">
