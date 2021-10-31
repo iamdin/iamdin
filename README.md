@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jinyang Ding, studying for Master's Degree in Shanghai, China. I'm currently learning frontend development. 
+I'm amifed (am i frontend development), studying for Master's Degree in Shanghai, China. I'm currently learning frontend development. 
 
 📫 Reach me `iamjyding at gmail dot com`
 
