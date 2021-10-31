@@ -16,6 +16,6 @@ I'm amifed (am i frontend development), studying for Master's Degree in Shanghai
 ![](https://visitor-badge.glitch.me/badge?page_id=amifed.amifed)
 
 
-<img align="left" alt="img" width="500px" src="https://github-readme-stats.vercel.app/api?username=iamjyding&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0" />
+<img align="left" alt="img" width="500px" src="https://github-readme-stats.vercel.app/api?username=amifed&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0" />
 
 <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
