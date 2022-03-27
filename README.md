@@ -2,7 +2,7 @@
 
 I'm amifed (am i frontend development), studying for Master's Degree in Shanghai, China. I'm currently learning frontend development. 
 
-📫 Reach me `iamjyding at gmail dot com`
+📫 Reach me `amifed.me at gmail dot com`
 
 <br />
 
