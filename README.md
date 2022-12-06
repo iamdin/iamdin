@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm din (am i frontend development), studying for Master's Degree in Shanghai, China. I'm currently learning frontend development. 
+I'm din, a frontend developer.
 
 📫 Reach me `amifed.me at gmail dot com`
 
