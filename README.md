@@ -15,7 +15,4 @@ I'm din, a frontend developer.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=iamdin.iamdin)
 
-
-<img align="left" alt="img" width="500px" src="https://github-readme-stats.vercel.app/api?username=iamdin&hide=contribs,prs&count_private=false&show_icons=true&&theme=vue-dark" />
-
 <img align="right" alt="img" width="400px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
